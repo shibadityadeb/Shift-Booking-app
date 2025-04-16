@@ -13,7 +13,7 @@ export default function NotFoundScreen() {
       <View style={styles.container}>
         <Text style={styles.title}>Your shift buddy</Text>
         <Text style={styles.message}>
-        Your smart companion for effortless shift management.
+        Instant shift bookings—simple,fast,and reliable.
         </Text>
         <Link href="/(tabs)/my-shifts" asChild>
           <TouchableOpacity style={styles.button}>
